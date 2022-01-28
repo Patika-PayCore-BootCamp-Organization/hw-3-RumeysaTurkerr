@@ -1,5 +1,6 @@
 # hw-3-RumeysaTurkerr
 Homework-3 for Patika Paycore Java Spring Bootcamp
+
 1 – SOAP vs Restful ?
 
 2 - Difference between acceptance test and functional test ?
